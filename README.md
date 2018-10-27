@@ -1,0 +1,2 @@
+# sunlight-tracking-solar-panel
+The Solar panel adapts to the various lighting conditions by rotating itself in the path of light rays.  It uses a light sensor to detect the presence of light. It turns to the required direction with the help of a motor and ball bearing. The materials used are servo motors, Arduino Uno R3, Resistors, Solar Panels, Transmitter and Receiver, L298 Motor control board, Proteus. Proteus is a tool used for simulation of this project, which is tool for simulating circuits and its connected components.
